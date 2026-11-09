@@ -1,0 +1,6 @@
+{
+  "name": "Irizar i8 Coach 3D Simulator & Tour",
+  "description": "Interaktywny model 3D luksusowego autokaru Irizar i8 w barwach Oskar z możliwością spaceru dookoła pojazdu, wejścia do wnętrza, badania detali kabiny i foteli na realistycznym parkingu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
